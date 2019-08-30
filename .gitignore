@@ -19,3 +19,8 @@ yarn-error.log
 .idea/symfony2.xml
 .idea/vcs.xml
 logfile
+nbproject/private/private.xml
+nbproject/project.properties
+nbproject/project.xml
+nbproject/private/config.properties
+nbproject/private/private.properties
